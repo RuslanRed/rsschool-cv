@@ -1,1 +1,1 @@
-https://github.com/RuslanRed/rsschool-cv
+ https://github.com/RuslanRed/rsschool-cv
